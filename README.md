@@ -1,0 +1,2 @@
+# PythonAiNeuralnetwork
+Neuralt nätverk
